@@ -3,8 +3,8 @@ pip==18.0
 appdirs==1.4.3
 virtualenv==16.0.0
 docutils==0.14
-Sphinx==1.7.6
-sphinx_rtd_theme==0.4.0
+Sphinx==1.7.7
+sphinx_rtd_theme==0.4.1
 
 Pygments==2.2.0
 
@@ -18,7 +18,7 @@ future==0.16.0
 django-tastypie==0.13.0
 
 django-guardian==1.4.9
-django-extensions==2.1.0
+django-extensions==2.1.1
 
 # djangorestframework 3.7.x drops support for django 1.9.x
 djangorestframework==3.6.4
@@ -31,8 +31,9 @@ django-vanilla-views==1.0.5
 jsonfield==2.0.2
 
 requests==2.19.1
+requests-toolbelt==0.8.0
 slumber==0.7.1
-lxml==4.2.3
+lxml==4.2.4
 defusedxml==0.5.0
 
 # Basic tools
@@ -57,7 +58,7 @@ pyquery==1.4.0
 # Utils
 django-gravatar2==1.4.2
 pytz==2018.5
-beautifulsoup4==4.6.0
+beautifulsoup4==4.6.3
 Unipath==1.1
 django-kombu==0.9.4
 mock==2.0.0
@@ -78,7 +79,7 @@ django-textclassifier==1.0
 django-annoying==0.10.4
 django-messages-extends==0.6.0
 djangorestframework-jsonp==1.0.2
-django-taggit==0.22.2
+django-taggit==0.23.0
 dj-pagination==2.3.2
 
 # Docs
